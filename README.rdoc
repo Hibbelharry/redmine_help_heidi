@@ -1,0 +1,7 @@
+=Redmine Help Heidi
+
+Simple and stupid Plugin to remove that darn Help Link from Redmine Topmenu. It offers no real value for most of our users.
+
+Please name the directory help_heidi
+
+Tested on Redmine 2.5.x
